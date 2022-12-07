@@ -1,0 +1,16 @@
+
+.text-nav {
+    cursor: pointer;
+}
+.text-nav:hover {
+    text-decoration: underline;
+}
+.text-nav:active {
+    text-decoration: transparent;
+}
+.image-element {
+    width: 142px;
+}
+.item-footer {
+    list-style: none;
+}

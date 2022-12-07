@@ -1,0 +1,2 @@
+export const SUGESTIONS = 'SUGESTIONS';
+export const GET_SUGESTIONS = 'GET_SUGESTIONS';

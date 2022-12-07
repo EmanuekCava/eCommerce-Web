@@ -1,0 +1,21 @@
+.get-product {
+    cursor: pointer;
+    height: 50%;
+}
+.get-product:hover {
+    box-shadow: 0px 0px 2px #111 inset;
+}
+.get-product:active {
+    box-shadow: 0px 0px 1px #111 inset;
+}
+.move {
+    cursor: pointer;
+}
+.move:hover {
+    border: 1px solid #aaa;
+    border-radius: 50%;
+}
+.move:active {
+    border: none;
+    border-radius: 50%;
+}
